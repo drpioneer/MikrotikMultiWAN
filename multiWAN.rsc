@@ -1,5 +1,6 @@
 # Script HA ISP Recursive Routing ISP Failover using DHCP by rextended
 # APPLY TO '/ip dhcp-client add script=' section
+# https://github.com/drpioneer/MikrotikMultiWAN
 # https://forum.mikrotik.com/viewtopic.php?p=1001987#p1001987
 # tested on ROS 6.49.10 & 7.12
 # updated 2024/03/20
